@@ -1,2 +1,2 @@
 # EasyBudget
-Programa de orçamento web 
+Programa de Orçamento web onde vou por em pratica meus conhecimentos de NodeJS e React 
